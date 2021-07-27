@@ -9,3 +9,10 @@ Mediapipe and opencv were used for hand detection and tracking and various gestu
 
 <br/>
 The tester.py is just a basic script for testing the HandTrackingModule. To run the above mentioned features, run the specific scripts meant for them.
+<br/>
+<br/>
+
+# Tutorial
+
+To learn how the code works, you may watch our workshop video on youtube - <br/>
+<https://youtu.be/SlqHa2R9RYg>
