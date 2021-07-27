@@ -14,5 +14,5 @@ The tester.py is just a basic script for testing the HandTrackingModule. To run 
 
 # Tutorial
 
-To learn how the code works, you may watch our workshop video on youtube - <br/>
+To learn how the code works watch our workshop video on youtube - <br/>
 <https://youtu.be/SlqHa2R9RYg>
